@@ -1,0 +1,3 @@
+Go to nmap scan
+
+namp -sS -sV -vv -script vuln IP-HERE
