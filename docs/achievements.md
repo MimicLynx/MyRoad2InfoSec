@@ -1,7 +1,7 @@
 
 ## Codecademy 
 
-#![bash]()
+#![bash](docs/assets/img/Codecademy-bash.png)
 
 #![go]()
 
