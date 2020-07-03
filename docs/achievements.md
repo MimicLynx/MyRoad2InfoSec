@@ -4,8 +4,8 @@ layout: default
 
 ## Codecademy 
 
-#![bash](assets/img/Codecademy-bash.png)
+![bash](assets/img/Codecademy-bash.png)
 
-#![go]()
+![go]()
 
 ## Udemy courses
