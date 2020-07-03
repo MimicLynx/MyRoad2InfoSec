@@ -4,9 +4,9 @@ layout: default
 
 <script src="https://tryhackme.com/badge/68342"></script>
 
+There should be whitespace between paragraphs.
 
 [My Codecademy Profile](https://www.codecademy.com/profiles/MimicLynx)
-
 
 * * *
 
