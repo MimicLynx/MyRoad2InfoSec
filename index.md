@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<script src="https://tryhackme.com/badge/68342"></script>
+
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
