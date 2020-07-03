@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+## THM
+<script src="https://tryhackme.com/badge/68342"></script>
+
+
 ## CompTIA
 
 Security+ - Learning for it, hope to get it done in October 2020
