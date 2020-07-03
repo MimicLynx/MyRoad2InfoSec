@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+[Archivements so far](achievements.md)
 
-<script src="https://tryhackme.com/badge/68342"></script>
 * * *
 
 [My Codecademy Profile](https://www.codecademy.com/profiles/MimicLynx)
@@ -11,4 +11,4 @@ layout: default
 
 * * *
 
-[Archivements so far](achievements.md)
+
