@@ -11,4 +11,4 @@ layout: default
 
 * * *
 
-[Archivements so far](docs/achievements.md)
+[Archivements so far](achievements.md)
