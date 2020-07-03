@@ -1,1 +1,8 @@
-here 
+
+## Codecademy 
+
+#![bash]()
+
+#![go]()
+
+## Udemy courses
