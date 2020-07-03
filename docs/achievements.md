@@ -4,7 +4,7 @@ layout: default
 
 ## Codecademy 
 
-#![bash](docs/assets/img/Codecademy-bash.png)
+#![bash](assets/img/Codecademy-bash.png)
 
 #![go]()
 
