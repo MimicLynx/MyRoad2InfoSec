@@ -7,6 +7,7 @@ layout: default
 
 [My Codecademy Profile](https://www.codecademy.com/profiles/MimicLynx)
 
+
 * * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
