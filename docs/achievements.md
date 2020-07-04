@@ -5,9 +5,9 @@ layout: default
 
 <dl>
 <dt>Try Hack Me</dt>
-<dd><script src="https://tryhackme.com/badge/68342"></dd>
+<dd><script src="https://tryhackme.com/badge/68342"></script></dd>
 <dt>Hack the Box</dt>
-<dd></script> <script src="https://www.hackthebox.eu/badge/326651"></script></dd>
+<dd><script src="https://www.hackthebox.eu/badge/326651"></script></dd>
 </dl>
 
 ## CompTIA
