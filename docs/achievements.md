@@ -12,9 +12,9 @@ Security+ - Learning for it, hope to get it done in October 2020
 
 ## Codecademy 
 
-![bash](assets/img/Codecademy-bash.png)
+![bash](assets/img/Codecademy_bash.png)
 
-![go]()
+![go](assets/img/Codecademy_go.png)
 
 ## Udemy courses
 
