@@ -14,8 +14,7 @@ layout: default
 
 ## CompTIA
 
-Security+ - Learning for it, hope to get it done in October 2020
-![Security+](https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=1ca21668_2)
+Security+ - Exam in October 2020
 
 ## Codecademy 
 
