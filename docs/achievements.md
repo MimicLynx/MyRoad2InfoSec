@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## THM
-<script src="https://tryhackme.com/badge/68342"></script>
+## CTF Sites
+<script src="https://tryhackme.com/badge/68342"></script> <script src="https://www.hackthebox.eu/badge/326651"></script>
 <br>
 
 ## CompTIA
