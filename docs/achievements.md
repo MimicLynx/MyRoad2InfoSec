@@ -5,8 +5,10 @@ layout: default
 
 <dl>
 <dt>Try Hack Me</dt>
+<br>
 <dd><script src="https://tryhackme.com/badge/68342"></script></dd>
 <dt>Hack the Box</dt>
+<br>
 <dd><script src="https://www.hackthebox.eu/badge/326651"></script></dd>
 </dl>
 
