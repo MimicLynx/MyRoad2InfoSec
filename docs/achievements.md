@@ -2,9 +2,11 @@
 layout: default
 ---
 ## CTF Sites
-<script src="https://tryhackme.com/badge/68342"></script> <script src="https://www.hackthebox.eu/badge/326651"></script>
-<br>
 
+<script src="https://tryhackme.com/badge/68342">
+<br>
+</script> <script src="https://www.hackthebox.eu/badge/326651"></script>
+<br>
 ## CompTIA
 
 Security+ - Learning for it, hope to get it done in October 2020
