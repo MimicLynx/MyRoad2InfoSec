@@ -17,6 +17,7 @@ layout: default
 Security+ - Exam in October 2020
 
 ## Codecademy 
+![python3](assets/img/codecademy_python3.png)
 
 ![bash](assets/img/Codecademy_bash.png)
 
