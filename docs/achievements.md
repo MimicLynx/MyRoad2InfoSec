@@ -15,6 +15,7 @@ layout: default
 ## CompTIA
 
 Security+ - Exam in Jan 2021
+
 OSCP  - Course and Labtime mid Feb 2021
 
 ## Codecademy 
