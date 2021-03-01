@@ -12,11 +12,13 @@ layout: default
 <dd><script src="https://www.hackthebox.eu/badge/326651"></script></dd>
 </dl>
 
-## CompTIA
+## Certifications
 
-Security+ - Exam in Jan 2021
+Security+
 
-OSCP  - Course and Labtime mid Feb 2021
+eJPT - startet learning for it
+
+OSCP - plant for later this year
 
 ## Codecademy 
 ![python3](assets/img/codecademy_python3.png)
