@@ -16,9 +16,11 @@ layout: default
 
 Security+
 
-eJPT - startet learning for it
+eJPT - started learning for it
 
-OSCP - plant for later this year
+OSCP - planed for later this year
+
+# Misc
 
 ## Codecademy 
 ![python3](assets/img/codecademy_python3.png)
