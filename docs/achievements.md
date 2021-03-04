@@ -14,11 +14,11 @@ layout: default
 
 ## Certifications
 
-Security+
+**CompTIA Security+**
 
-eJPT - started learning for it
+**eJPT** - started learning for it
 
-OSCP - planed for later this year
+**OSCP** - planed for later this year
 
 ***
 # Misc
